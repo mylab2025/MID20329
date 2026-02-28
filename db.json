@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "VOLT.REG-LDO-12V OUT@100mA (SOP-8)",
+        "PN": "TS78L12CS RLG",
+        "MF": "Taiwan Semiconductor Corporation"
+      },
+      "MID": "MID20329",
+      "MD": "TS78L12CS RLG is MAX of 35V input and fixed 12V@100mA out LDO voltage regulator with Vdrop = 1.7V. Package: SOP-8. || KM50098986.",
+      "MT": "",
+      "MQNT": 10,
+      "MCost": 89.84,
+      "MQATG": "#CLASS_0",
+      "ML": "120",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20329%2Fmain%2FTS78L00_M2206.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20329/main/IMG_20260228_125402.jpg"
+      ]
+    }
+  ]
+}
